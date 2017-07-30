@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Class-Path: spring-rabbit-1.7.3.RELEASE.jar jul-to-slf4j-1.7.25.jar sp
+ ring-beans-4.3.9.RELEASE.jar spring-messaging-4.3.9.RELEASE.jar sprin
+ g-expression-4.3.9.RELEASE.jar spring-amqp-1.7.3.RELEASE.jar spring-b
+ oot-starter-amqp-1.5.4.RELEASE.jar jackson-core-2.8.8.jar spring-web-
+ 4.3.9.RELEASE.jar jackson-annotations-2.8.0.jar spring-boot-autoconfi
+ gure-1.5.4.RELEASE.jar http-client-1.1.1.RELEASE.jar jcl-over-slf4j-1
+ .7.25.jar httpclient-4.5.3.jar log4j-over-slf4j-1.7.25.jar spring-ret
+ ry-1.2.0.RELEASE.jar amqp-client-4.0.2.jar logback-classic-1.1.11.jar
+  spring-context-4.3.9.RELEASE.jar spring-core-4.3.9.RELEASE.jar commo
+ ns-codec-1.10.jar spring-boot-starter-1.5.4.RELEASE.jar logback-core-
+ 1.1.11.jar spring-aop-4.3.9.RELEASE.jar jackson-databind-2.8.8.jar sn
+ akeyaml-1.17.jar httpcore-4.4.6.jar spring-boot-1.5.4.RELEASE.jar slf
+ 4j-api-1.7.25.jar spring-boot-starter-logging-1.5.4.RELEASE.jar sprin
+ g-tx-4.3.9.RELEASE.jar
+Main-Class: org.springframework.amqp.tutorials.masoud.RabbitAmqpTutori
+ alsApplication
+
